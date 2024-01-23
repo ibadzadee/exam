@@ -1,0 +1,22 @@
+{   "data": [
+    {
+      "id": "1",
+      "image": "./assets/img/Group-8211-copy-2.jpg",
+      "name": "Mint Green",
+      "cost": 25.5
+    },
+    {
+      "id": "2",
+      "image": "./assets/img/Group-8211-copy-3.jpg",
+      "name": "Purple Berry",
+      "cost": 11
+    },
+    {
+      "id": "3",
+      "image": "./assets/img/Group-82111-copy-4.jpg",
+      "name": "Golden Sunset",
+      "cost": 10.5
+    }
+]
+}
+    
